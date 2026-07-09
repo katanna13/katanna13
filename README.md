@@ -10,11 +10,14 @@
 
 ### 🧠 About Me
 
+I'm a Computer Science student passionate about building AI systems that solve real problems using machine learning, LLMs and data engineering.
+
+I enjoy taking projects from data collection to deployment using Python, Docker and cloud technologies.
+
 - 🎓 CS Student @ **Politehnica București** (FILS, French Program)
-- 🤖 Building AI-powered tools with real data
-- 📊 Analyzed **36.5M+ YouTube views** with ML pipelines
-- 🏆 **AMD Developer Hackathon ACT II** — Track 3 Unicorn
-- 🎯 Stack: Python · FastAPI · React · C++ · Docker · Gemma 4
+- 🤖 Interested in LLMs, Machine Learning and Data Engineering
+- 📊 Built ML pipelines on datasets covering **36.5M+ YouTube views**
+- 🎯 Stack: Python · FastAPI · React · C++ · Docker
 
 ---
 
@@ -22,10 +25,16 @@
 
 | Project | Tech | Description |
 |---|---|---|
-| [▶ YouTube Growth Copilot](https://github.com/katanna13/youtube-analytics) | Python · Gemma 4 · FastAPI · React | AI channel analysis — 399 videos, 36.5M views |
-| [🏆 World Cup Predictor](https://github.com/katanna13/world-cup-predictor) | XGBoost · Monte Carlo · Streamlit | 15K+ matches, tournament simulation |
-| [⚡ Thread-Safe LRU Cache](https://github.com/katanna13/cache-pool) | C++20 · Multithreading · CMake | 40K ops/8 threads, custom allocator |
+| [▶ YouTube Analytics Pipeline](https://github.com/katanna13/youtube-analytics) | Python · YouTube API · SQLite · Streamlit · Docker | End-to-end data pipeline — 399 videos, 36.5M views, GradientBoosting ML |
+| [🏆 World Cup Predictor](https://github.com/katanna13/world-cup-predictor) | XGBoost · Monte Carlo · Streamlit · Docker | 15K+ matches, tournament probability simulation |
+| [⚡ Thread-Safe LRU Cache](https://github.com/katanna13/cache-pool) | C++20 · Multithreading · CMake | 40K ops/8 threads, custom memory pool allocator |
 | [💪 Hypertrophy Tracker](https://workout-tracker-mu-plum.vercel.app) | React · Vite · LocalStorage | Live workout + nutrition tracker |
+
+---
+
+### 📺 Demo
+
+![Demo](demo.gif)
 
 ---
 
@@ -56,18 +65,20 @@
 
 ---
 
+### 📚 Currently Learning
+
+- PyTorch
+- LLM Agents
+- Retrieval-Augmented Generation (RAG)
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=katanna13&show_icons=true&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=ff0000&icon_color=ff0000&text_color=ffffff" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katanna13&layout=compact&theme=radical&hide_border=true&bg_color=0f0f0f&title_color=ff0000&text_color=ffffff" />
-
-</div>
-
-<div align="center">
-
-![Snake animation](https://github.com/katanna13/katanna13/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
