@@ -36,7 +36,7 @@ I enjoy taking projects from data collection and model training to deployment us
 
 **YouTube Analytics Pipeline Dashboard**
 
-![Demo](demo.gif)
+![Snake](https://github.com/katanna13/katanna13/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
