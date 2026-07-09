@@ -14,9 +14,8 @@ I'm a Computer Science student passionate about building AI applications with ma
 
 I enjoy taking projects from data collection and model training to deployment using Python, Docker and cloud technologies.
 
-- 🎓 CS Student @ **Politehnica București** (FILS, French Program)
+- 🎓 CS Student @ **Politehnica București** 
 - 🤖 Interested in LLMs, Machine Learning and Data Engineering
-- 📊 Built ML pipelines on datasets covering **36.5M+ YouTube views**
 - 🎯 Primary Stack: Python · C++ · Docker · SQL · Machine Learning
 
 ---
@@ -25,7 +24,7 @@ I enjoy taking projects from data collection and model training to deployment us
 
 | Project | Tech | Description |
 |---|---|---|
-| [▶ YouTube Analytics Pipeline](https://github.com/katanna13/youtube-analytics) | Python · YouTube API · SQLite · Streamlit · Docker | End-to-end data pipeline — 399 videos, 36.5M views, Gradient Boosting model |
+| [▶ YouTube Analytics Pipeline](https://github.com/katanna13/youtube-analytics) | Python · YouTube API · SQLite · Streamlit · Docker | End-to-end data pipeline, Gradient Boosting model |
 | [🏆 World Cup Predictor](https://github.com/katanna13/world-cup-predictor) | XGBoost · Monte Carlo · Streamlit · Docker | 15K+ matches, tournament probability simulation |
 | [⚡ Thread-Safe LRU Cache](https://github.com/katanna13/cache-pool) | C++20 · Multithreading · CMake | 40K ops/8 threads, custom memory pool allocator |
 | [💪 Hypertrophy Tracker](https://workout-tracker-mu-plum.vercel.app) | React · Vite · LocalStorage | Live workout + nutrition tracker |
